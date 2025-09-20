@@ -7,7 +7,7 @@
 my_first_function(inp)
 }
 \arguments{
-\item{inp}{}
+\item{inp}{the input, a vector}
 }
 \value{
 A list of the values where x are the inputs and y is the square of the inputs
